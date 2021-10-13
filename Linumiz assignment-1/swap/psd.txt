@@ -1,0 +1,4 @@
+morning-1
+noon-2
+evening-3
+night-4
